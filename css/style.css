@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-size: 64px;
+    margin: 10px;
+    font-family: 'Tangerine', cursive;
+}
+img{
+    height: 80vh;
+    width: auto;
+}
+
+.slider{
+    justify-content: center;
+    text-align: center;
+    position: relative;
+}
+.arr{
+    position: absolute;
+    top: 40%;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 64px;
+    border-radius:16px;
+    padding:0px 5px;
+    user-select: none; 
+}
+#left{
+    left:235px;
+}
+#right{
+    right:235px;
+}
+
+.slide{
+    display: none;
+}
