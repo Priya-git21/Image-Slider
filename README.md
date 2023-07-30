@@ -2,7 +2,7 @@
 HTML-5, CSS-3, Vanilla JS ES-6
 
 ### Links
-image-slider-rosy.vercel.app
+[Deployed here](https://image-slider-rosy.vercel.app)
 
 ## Table of contents
 
